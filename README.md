@@ -66,7 +66,8 @@ LootVault/
 │   └── 03_inventory_queries.sql
 ├── src/
 │   └── Java application (planned)
-└── screenshots/
+└── assets/
+    └── screenshots/
 ```
 
 ## Goals
